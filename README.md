@@ -17,18 +17,25 @@ Programming is hard but with practice, anyone can learn it. Novice programmers n
 
 
 ## Questions for the Project:
-6. Does the instructor state when the start of a 6-day class is or it’s when a student starts the lesson? In other words, are the daily lessons assigned from a specific date to 6 days from there or it is 6 days from when the student starts the first lesson?
 7. Is any part of the daily lessons graded? Or is it all just for completion?
 8. Are hints allowed in the daily lessons? Can students view the answer if they give up?
-11. What happens if the student creates an account, not doing any of the assignments for 6 days straight, will he still be given the quiz? or does he need to complete all the lessons first?
-12. Do you want to have separate student mode and instructor mode where the instructor can see all the student's progress live? Or do you want it fixed on the student mode/view only?
-13. How's detailed the progress of the student need to be? Do you want to see all the hints the student use, etc?
+
 
 ## Already asked:
 1. How much experience with programming does the user require for this application?
 2. How advanced/in-depth should the tutorials get?
 4. Is there a limit on how many times a student can take the quiz/lessons?
 10. What happened if they don’t finish yesterday’s work? Will it add up to today’s work?
+
+1. Following up on our question from yesterday "What happens if a student doesn't finish yesterday’s work? Will it be added up to today’s work? If yes will there be any point deductions?"
+So, just to be clear, if a student does not finish the tasks from yesterday, they will be allowed to do the assignments for the next day, and they are required to do todays assignment before finishing their past due assignments, right? 
+
+2. Another question related to our previous question, if a student has past due assignments from a day, two days, or more, would they be allowed to take the quiz on the 6th day? If yes, are they supposed to take the quiz before finishing their assignments?
+
+3. Does the instructor have the ability to extend due dates? Are the due dates assigned by the instructor or they are generated automatically when a student signs in to the app for the first time? For example if student A downloads the app and signs up on Sunday, they start their 6 day training from then, or the instructor will say, you must finish the 6 day training by the end of some date?
+
+12. Do you want to have separate student mode and instructor mode where the instructor can see all the student's progress live? Or do you want it fixed on the student mode/view only?
+13. How's detailed the progress of the student need to be? Do you want to see all the hints the student use, etc?
 
 
 ## Build with:
