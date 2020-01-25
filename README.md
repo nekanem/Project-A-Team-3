@@ -17,11 +17,12 @@ Programming is hard but with practice, anyone can learn it. Novice programmers n
 
 
 ## Questions for the Project:
-7. Is any part of the daily lessons graded? Or is it all just for completion?
-8. Are hints allowed in the daily lessons? Can students view the answer if they give up?
+None at this moment.
 
 
 ## Already asked:
+7. Is any part of the daily lessons graded? Or is it all just for completion?
+8. Are hints allowed in the daily lessons? Can students view the answer if they give up?
 1. How much experience with programming does the user require for this application?
 2. How advanced/in-depth should the tutorials get?
 4. Is there a limit on how many times a student can take the quiz/lessons?
