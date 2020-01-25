@@ -17,6 +17,8 @@ Programming is hard but with practice, anyone can learn it. Novice programmers n
 
 
 ## Questions for the Project:
+1. What are the requirments for signing up? Does a student have to be part of a class with an instructor? Do students get added by the instructor and then they sign up or students sign up and are automatically added to a instructor? Is a free for practice version allowed for students who do not belong to a class?
+
 None at this moment.
 
 
