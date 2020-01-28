@@ -21,6 +21,10 @@ Programming is hard but with practice, anyone can learn it. Novice programmers n
 
 2. How much writing do you want from the students? Should most questions be multiple choice and fill in the blank since it’s on a handheld device?
 
+9. Will the students be able to compare their scores with other students, will there be a competitive element?
+
+11. Will the students have t unlock lessons in order or will they be able to skip depending on their experience level?
+
 
 ## Already asked:
 7. Is any part of the daily lessons graded? Or is it all just for completion?
