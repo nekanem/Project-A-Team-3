@@ -17,13 +17,7 @@ Programming is hard but with practice, anyone can learn it. Novice programmers n
 
 
 ## Questions for the Project:
-1. What are the requirments for signing up? Does a student have to be part of a class with an instructor? Do students get added by the instructor and then they sign up or students sign up and are automatically added to a instructor? Is a free for practice version allowed for students who do not belong to a class?
-
-2. How much writing do you want from the students? Should most questions be multiple choice and fill in the blank since it’s on a handheld device?
-
-9. Will the students be able to compare their scores with other students, will there be a competitive element?
-
-11. Will the students have t unlock lessons in order or will they be able to skip depending on their experience level?
+None
 
 
 ## Already asked:
@@ -42,8 +36,12 @@ So, just to be clear, if a student does not finish the tasks from yesterday, the
 3. Does the instructor have the ability to extend due dates? Are the due dates assigned by the instructor or they are generated automatically when a student signs in to the app for the first time? For example if student A downloads the app and signs up on Sunday, they start their 6 day training from then, or the instructor will say, you must finish the 6 day training by the end of some date?
 
 12. Do you want to have separate student mode and instructor mode where the instructor can see all the student's progress live? Or do you want it fixed on the student mode/view only?
+
 13. How's detailed the progress of the student need to be? Do you want to see all the hints the student use, etc?
 
+1. What are the requirments for signing up? Does a student have to be part of a class with an instructor? Do students get added by the instructor and then they sign up or students sign up and are automatically added to a instructor? Is a free for practice version allowed for students who do not belong to a class?
+
+2. How much writing do you want from the students? Should most questions be multiple choice and fill in the blank since it’s on a handheld device?
 
 ## Build with:
 * Android Studio
